@@ -1,0 +1,4 @@
+depth_scale_m_per_unit: 0.0010000000474974513
+color_size: 1280x720
+color_encoding_saved: BGR (OpenCV)
+depth_encoding_saved: uint16 (raw Z units)
